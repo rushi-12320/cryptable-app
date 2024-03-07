@@ -4,13 +4,11 @@
 <br>
 <img src='Examples/cryptable.png' height='150' >
 
-## Download App
-<a href='https://github.com/gauravraj0510/Cryptable/releases/download/v1.0/Cryptable.v1.0.apk'>
-<img alt='Download from release' src='https://www.inspirefm.org/wp-content/uploads/button-apk.png' width=200>
-</a>
+
 
 ## Developer
-Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
+Rushi Patel- https://www.linkedin.com/in/rushi-patel-193079266/
+
 
 ## Landing Screen
 <img src='Examples/1.jpg' height='500' >
