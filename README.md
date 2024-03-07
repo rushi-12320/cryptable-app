@@ -2,7 +2,7 @@
 
 - An Android App for encrypting and decrypting images and texts.
 <br>
-<img src='Examples/cryptable.png' height='150' >
+![image](https://github.com/rushi-12320/cryptable-app/assets/55217679/d058e1f1-31df-4d94-89ab-c7438c19cfa9)
 
 
 
