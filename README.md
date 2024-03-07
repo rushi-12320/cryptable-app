@@ -12,7 +12,8 @@ Rushi Patel- https://www.linkedin.com/in/rushi-patel-193079266/
 
 ## Landing Screen
 
-![Screenshot_20240307_151856_Cryptable](https://github.com/rushi-12320/cryptable-app/assets/55217679/3bd81a5c-0724-4a1f-8569-f2b6e681923a)
+![oie_7105430MhMXD6QS](https://github.com/rushi-12320/cryptable-app/assets/55217679/abb059a5-a399-46a0-bd1a-15363a9c704c)
+
 
 
 ## Text Cryption
