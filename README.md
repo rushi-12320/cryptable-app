@@ -2,7 +2,7 @@
 
 - An Android App for encrypting and decrypting images and texts.
 <br>
-![image](https://github.com/rushi-12320/cryptable-app/assets/55217679/d058e1f1-31df-4d94-89ab-c7438c19cfa9)
+
 
 
 
@@ -12,7 +12,8 @@ Rushi Patel- https://www.linkedin.com/in/rushi-patel-193079266/
 
 ## Landing Screen
 
-![oie_7105430MhMXD6QS](https://github.com/rushi-12320/cryptable-app/assets/55217679/abb059a5-a399-46a0-bd1a-15363a9c704c)
+![image](https://github.com/rushi-12320/cryptable-app/assets/55217679/0451957c-d39b-40ef-ab6f-5fe44df9aed4)
+
 
 
 
